@@ -43,4 +43,3 @@ def run_game():
         gf.update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets, play_button)
 run_game()
 
-#Left off on page 285 - responding to alien-ship collisions
